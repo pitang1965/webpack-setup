@@ -1,0 +1,1 @@
+export const present= '東京都いなか市在住の56歳です。';
